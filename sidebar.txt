@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[swf:home|Door43 (swf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-swf|d43-swf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-swf/archive/master.zip|d43-swf.zip]]
+
+**Recent Changes**
+{{changes>ns = swf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/swf|Ethnologue data]]
+
